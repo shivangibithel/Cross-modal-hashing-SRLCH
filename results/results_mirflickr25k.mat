@@ -1,0 +1,79 @@
+# Created by Octave 5.2.0, Tue Jun 01 14:02:29 2021 GMT <unknown@kshitij-bithel>
+# name: results
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 10
+# name: MAP1
+# type: scalar
+0.66481872761770922
+
+
+# name: PreRank1
+# type: scalar
+0
+
+
+# name: RecRank1
+# type: scalar
+0
+
+
+# name: PreNo1
+# type: scalar
+0
+
+
+# name: RecNo1
+# type: scalar
+0
+
+
+# name: MAP2
+# type: scalar
+0.70521821811578833
+
+
+# name: PreRank2
+# type: scalar
+0
+
+
+# name: RecRank2
+# type: scalar
+0
+
+
+# name: PreNo2
+# type: scalar
+0
+
+
+# name: RecNo2
+# type: scalar
+0
+
+
+
+
+
+
+
+# name: loss
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 10
+ 528892.70907132467 224085.06523701077 187822.70621199967 177007.73405561197 169610.48887929469 162455.49626891382 155142.30866203742 149144.53345458402 144076.70883318773 141112.72194501862
+
+
+
+
+
